@@ -1,0 +1,1712 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.25)  19 AUG 2014 16:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**liberphoenicieszwei.tex
+(./liberphoenicieszwei.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/12/03 3.9h The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/12/03 3.9h Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fundus-calligra/calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box26
+\multicol@leftmargin=\dimen106
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen107
+\page@free=\dimen108
+\premulticols=\dimen109
+\postmulticols=\dimen110
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\multicol@sort@counter=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen115
+\WF@size=\dimen116
+\c@WF@wrappedlines=\count100
+\WF@box=\box52
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+(./liberphoenicieszwei.aux)
+\openout1 = `liberphoenicieszwei.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen117
+\scratchbox=\box53
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen118
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Overfull \hbox (11.06879pt too wide) in paragraph at lines 51--58
+\T1/cmr/m/n/10 fort ei-ner ec-zel-len-ten aka-de-mi-schen Bil-dungs-ein-rich-tu
+ng im Rücken
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+[4] (./liberphoenicieszwei.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5
+
+] [6])
+\tf@toc=\write3
+\openout3 = `liberphoenicieszwei.toc'.
+
+ [7]
+[8
+
+]
+Kapitel 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
+
+ []
+
+[10] [11] <pictures/flofeuerform1.jpg, id=44, 120.6511pt x 151.29646pt>
+File: pictures/flofeuerform1.jpg Graphic file (type jpg)
+
+<use pictures/flofeuerform1.jpg>
+Package pdftex.def Info: pictures/flofeuerform1.jpg used on input line 135.
+(pdftex.def)             Requested size: 276.0pt x 346.17612pt.
+
+Overfull \vbox (0.17612pt too high) has occurred while \output is active []
+
+
+[12 <./pictures/flofeuerform1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--158
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 167--172
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 185--192
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 211--224
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 243--252
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 274--296
+
+ []
+
+[19] [20]
+Overfull \hbox (2.18573pt too wide) in paragraph at lines 297--304
+[]\T1/cmr/m/n/10 Bevor wir die-se Er-kennt-nis auf den Ko-me-ten an-wen-den möc
+h-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--304
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 317--320
+
+ []
+
+
+Overfull \hbox (3.2096pt too wide) in paragraph at lines 321--325
+\T1/cmr/m/n/10 We-sen und Ma-ni-fes-ta-tio-nen me-ta-phy-si-schen Ur-sprungs, d
+ie einen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--339
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 352--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--377
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 389--401
+[]\T1/cmr/m/n/10 Gemäÿ der be-kann-ten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--401
+\T1/cmr/m/n/10 Thau-git-ter-theo-riethaugitter
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 389--401
+\T1/cmr/m/n/10 sen-den \T1/cmr/m/it/10 Thau-git-ter \T1/cmr/m/n/10 durch-zo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--401
+\T1/cmr/m/n/10 an-ge-streb-ten Zau-ber-wir-kung
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 402--409
+\T1/cmr/m/n/10 ren Über-schnei-dungs-punk-ten
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 410--420
+\T1/cmr/m/n/10 ma-gisch be-gab-ten We-sen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--420
+\T1/cmr/m/n/10 ver-schwom-me-ner und sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--420
+\T1/cmr/m/n/10 Ma-te-rial-ma-ni-fes-ta-ti-ons-phaer-
+ []
+
+[27]
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [28]
+Underfull \hbox (badness 6893) in paragraph at lines 449--454
+\T1/cmr/m/n/10 meh-re-ren Ma-tri-ces be-steht,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--454
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 474--481
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 482--490
+[]\T1/cmr/m/n/10 Die wohl pro-mi-nen-tes-te
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 482--490
+\T1/cmr/m/n/10 als Ein-hei-mi-sche be-völ-kern.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--513
+\T1/cmr/m/n/10 von so-ge-nann-ten \T1/cmr/m/it/10 Mi-cro-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--513
+
+ []
+
+[31]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 32 might be wrong on input line 521
+.
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 532--536
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 551--560
+[]\T1/cmr/m/n/10 In Ih-rem be-kann-tes-ten
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 34 might be wrong on input line 560
+.
+
+[34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 586--600
+[]\T1/cmr/m/n/10 Ein Ener-gie-vor-kom-men
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 586--600
+\T1/cmr/m/n/10 koer-pers un-wei-ger-lich da-zu,
+ []
+
+[36] [37] [38]
+Underfull \hbox (badness 6173) in paragraph at lines 625--638
+[]\T1/cmr/m/n/10 Anders hin-ge-gen ist es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--638
+\T1/cmr/m/n/10 ge-wünsch-ten As-tral-si-gna-tur.
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 625--638
+\T1/cmr/m/n/10 Al-by-ri-cu-sal-by-ri-cus den Ma-
+ []
+
+[39]
+Underfull \hbox (badness 6910) in paragraph at lines 644--653
+\T1/cmr/m/n/10 Grund-werk-zeug ei-nes je-den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 654--667
+\T1/cmr/m/n/10 auf-schluss-rei-chen Werk-wahr-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 654--667
+\T1/cmr/m/n/10 im Fol-gen-den re-prä-sen-ta-tiv
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 654--667
+
+ []
+
+[40]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 41 might be wrong on input line 683
+.
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 684--698
+[]\T1/cmr/m/n/10 Den Aus-sa-gen Ma-gis-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--698
+\T1/cmr/m/n/10 Fel-sen-grats zu-fol-ge-grund-aus-
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 684--698
+\T1/cmr/m/n/10 scheint Ma-gis-ter Fel-sen-grat
+ []
+
+[42]
+Underfull \hbox (badness 6510) in paragraph at lines 703--707
+\T1/cmr/m/n/10 sei-nen ört-li-chen Ur-zu-stand.
+ []
+
+[43]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 44 might be wrong on input line 733
+.
+
+[44] <pictures/Cordo_Siegel.png, id=155, 79.29625pt x 120.45pt>
+File: pictures/Cordo_Siegel.png Graphic file (type png)
+
+<use pictures/Cordo_Siegel.png>
+Package pdftex.def Info: pictures/Cordo_Siegel.png used on input line 749.
+(pdftex.def)             Requested size: 47.57932pt x 72.26999pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+[46 <./pictures/Cordo_Siegel.png>]
+Overfull \hbox (2.918pt too wide) in paragraph at lines 758--764
+\T1/cmr/m/n/10 ser-ta-ti-on und An-tritts-re-de an der Aka-de-mia Cla-vis Mun-d
+i Grenz-
+ []
+
+[47]
+Overfull \hbox (12.26294pt too wide) in paragraph at lines 769--770
+\T1/cmr/m/n/10 Dissertation Flo-ri-an Phel-leas Phö-nixflug: De-ter-mi-nis-ti-s
+ches Schick-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--788
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 789--791
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--797
+
+ []
+
+[49]
+Overfull \hbox (0.8805pt too wide) in paragraph at lines 798--800
+[]\T1/cmr/m/n/10 Nun schritt Cor-ne-li-us Luch-ten-fels durch die Bank-rei-hen.
+ Hin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--813
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 814--816
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--834
+
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 835--848
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 849--853
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 854--865
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--872
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 873--875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--886
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 887--905
+
+ []
+
+[56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 906--909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--927
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 933--934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 935--936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--938
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 943--944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--946
+
+ []
+
+
+Overfull \hbox (3.18687pt too wide) in paragraph at lines 951--952
+\T1/cmr/m/it/10 schleppt sich Phö-nixflug krei-de-bleich hin-ter das Red-ner-pu
+lt, stützt
+ []
+
+[60] [61] [62]
+Overfull \hbox (5.25674pt too wide) in paragraph at lines 1011--1012
+[]\T1/cmr/m/it/10 Selten wur-den prak-ti-sche Prä-sen-ta-tio-nen in theo-re-ti-
+schen Vor-
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1014
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1023
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1026
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1050
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1058
+
+ []
+
+[66]
+Overfull \hbox (0.8805pt too wide) in paragraph at lines 1062--1066
+[]\T1/cmr/m/n/10 ^^PDer Euch ei-ge-ne Prag-ma-tis-mus ist glei-cher Wei-se er-f
+ri-schend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1066
+
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1083
+
+ []
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+
+ []
+
+
+Overfull \hbox (1.68585pt too wide) in paragraph at lines 1103--1108
+[]\T1/cmr/m/n/10 Spricht man als Ele-men-ta-rist vor Ma-gi-ern, ins-be-son-de-r
+e, aber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1117
+
+ []
+
+[70] <pictures/Maleska1.jpg, id=239, 84.45576pt x 184.59616pt>
+File: pictures/Maleska1.jpg Graphic file (type jpg)
+
+<use pictures/Maleska1.jpg>
+Package pdftex.def Info: pictures/Maleska1.jpg used on input line 1119.
+(pdftex.def)             Requested size: 193.19916pt x 422.28911pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+Overfull \vbox (76.28911pt too high) has occurred while \output is active []
+
+
+[72 <./pictures/Maleska1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1122--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1135
+
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1149
+
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1160
+
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1186
+
+ []
+
+[76] [77]
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1202
+
+ []
+
+[78]
+Overfull \hbox (2.57452pt too wide) in paragraph at lines 1203--1210
+[]\T1/cmr/m/n/10 Nicht zwin-gend. Brück-mann schlug sei-ner-seits stets ^^Rdas 
+Tun^^P
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1224
+
+ []
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 1225--1233
+
+ []
+
+[80]
+Overfull \hbox (2.25516pt too wide) in paragraph at lines 1234--1237
+[]\T1/cmr/m/n/10 Gaerion Sturm-fels, Pry-ta-nus Au-ra der Aca-de-mia Can-tus Ha
+r-
+ []
+
+[81] [82] [83] [84] [85]
+<pictures/drachenbaum.jpg, id=290, 479.7925pt x 642.4pt>
+File: pictures/drachenbaum.jpg Graphic file (type jpg)
+
+<use pictures/drachenbaum.jpg>
+Package pdftex.def Info: pictures/drachenbaum.jpg used on input line 1315.
+(pdftex.def)             Requested size: 113.81102pt x 152.37553pt.
+
+Underfull \hbox (badness 1527) in paragraph at lines 1318--1324
+\T1/cmr/m/n/10 üp-pi-ge Ve-ge-ta-ti-on aus, die
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 1318--1324
+\T1/cmr/m/n/10 er-hal-ten. Da sie sich auf-
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 1318--1324
+\T1/cmr/m/n/10 rung des Or-tes, der in-ner-
+ []
+
+[86 <./pictures/drachenbaum.jpg>] [87] [88] [89] [90] [91] [92]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [93]
+[94] [95] [96] [97] [98] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 1567--1570
+
+ []
+
+[100]
+Overfull \hbox (2.83835pt too wide) in paragraph at lines 1571--1575
+[]\T1/cmr/m/n/10 Salix Phö-nixflug Gae-ri-on Sturm-fels, Pry-ta-nus Vit-am der 
+Aca-
+ []
+
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1611
+
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1654
+
+ []
+
+[103] [104] [105]
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1670
+
+ []
+
+[106] [107]
+Overfull \hbox (4.9314pt too wide) in paragraph at lines 1671--1709
+\T1/cmr/m/n/10 den ei-ne wis-sen-schaft-lich fun-dier-te Er-klä-rung zur Hell- 
+und Wahr-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1709
+
+ []
+
+[108] [109] [110] [111] [112]
+Underfull \hbox (badness 10000) in paragraph at lines 1730--1740
+
+ []
+
+[113] [114]
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1770
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1783
+
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 1784--1812
+
+ []
+
+[117] [118] [119] [120]
+Underfull \hbox (badness 10000) in paragraph at lines 1831--1837
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1838--1845
+
+ []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1860
+
+ []
+
+[122]
+Underfull \hbox (badness 10000) in paragraph at lines 1864--1868
+
+ []
+
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 1885--1894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1930
+
+ []
+
+[124] [125] [126] [127]
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1943
+
+ []
+
+[128]
+Underfull \hbox (badness 10000) in paragraph at lines 1950--1956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1965
+
+ []
+
+[129]
+Overfull \hbox (4.76843pt too wide) in paragraph at lines 1967--1968
+[]\T1/cmr/m/n/10 Florian Phel-leas Phö-nixflug, Sco-la-ri-us des Bun-des zu Ayd
+`Owl
+ []
+
+[130]
+Underfull \hbox (badness 7759) in paragraph at lines 1980--1994
+\T1/cmr/m/n/10 Er-geb-nis-se ei-ner Be-fra-gung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1980--1994
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 2002
+.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1995--2003
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1995--2003
+\T1/cmr/m/n/10 Zuvorderst wur-den Zau-ber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1995--2003
+\T1/cmr/m/n/10 kungs-dau-er be-han-delt. Die
+ []
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 2004--2016
+
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 2004--2016
+\T1/cmr/m/n/10 kann der \T1/cmtt/m/n/10 Magische Zirkel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2017--2027
+
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 132 might be wrong on input line 20
+27.
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2038
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2038
+\T1/cmr/m/n/10 wen-dun-gen vor-stell-bar, die
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 2039--2053
+\T1/cmr/m/n/10 stuft wer-den. Nichts de-sto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2039--2053
+
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 2039--2053
+\T1/cmr/m/n/10 in Au-gen-schein ge-nom-men,
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 2039--2053
+\T1/cmr/m/n/10 ein-ma-lig an-wend-ba-ren Zau-
+ []
+
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 2061--2072
+
+ []
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 2079--2092
+
+ []
+
+[135]
+File: pictures/Cordo_Siegel.png Graphic file (type png)
+ <use pictures/Cordo_Siegel.png>
+Package pdftex.def Info: pictures/Cordo_Siegel.png used on input line 2098.
+(pdftex.def)             Requested size: 47.57932pt x 72.26999pt.
+ [136]
+Overfull \hbox (2.61618pt too wide) in paragraph at lines 2111--2125
+[]\T1/cmr/m/n/10 Die Kraft-quel-le der Ani-ma-gie sind Geis-ter, so-wohl Elemen
+tar-
+ []
+
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 2126--2132
+
+ []
+
+[138] <pictures/Gitter_roh.png, id=462, 1101.3948pt x 1104.2856pt>
+File: pictures/Gitter_roh.png Graphic file (type png)
+
+<use pictures/Gitter_roh.png>
+Package pdftex.def Info: pictures/Gitter_roh.png used on input line 2148.
+(pdftex.def)             Requested size: 113.50711pt x 113.81102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2150--2155
+[]\T1/cmr/m/n/10 Nun lehrt uns die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2150--2155
+\T1/cmr/m/n/10 Thaumgitter-Theorie, dass
+ []
+
+[139 <./pictures/Gitter_roh.png>]
+<pictures/Gitter_okt.png, id=468, 1101.3948pt x 1104.2856pt>
+File: pictures/Gitter_okt.png Graphic file (type png)
+
+<use pictures/Gitter_okt.png>
+Package pdftex.def Info: pictures/Gitter_okt.png used on input line 2171.
+(pdftex.def)             Requested size: 113.50711pt x 113.81102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2182--2195
+
+ []
+
+[140 <./pictures/Gitter_okt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2196--2198
+[]\T1/cmr/m/n/10 Die an-ge-streb-te Grö-ÿe
+ []
+
+File: pictures/Cordo_Siegel.png Graphic file (type png)
+<use pictures/Cordo_Siegel.png>
+Package pdftex.def Info: pictures/Cordo_Siegel.png used on input line 2203.
+(pdftex.def)             Requested size: 47.57932pt x 72.26999pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+[142]
+Kapitel 2.
+[143
+
+] [144]
+Underfull \hbox (badness 10000) in paragraph at lines 2227--2228
+
+ []
+
+
+Overfull \hbox (8.93408pt too wide) in paragraph at lines 2230--2241
+[]\T1/cmr/m/n/10 Erste Wo-che des sie-ben-ten Mon-des des Jah-res 256 nach Jeld
+rik.
+ []
+
+[145] [146] [147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+[149]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+[152] [153] [154] [155] [156]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [157]
+[158] [159]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [160]
+[161]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [162]
+[163] [164] [165]
+Overfull \hbox (3.85199pt too wide) in paragraph at lines 2378--2379
+[]\T1/cmr/m/n/10 Drow kom-men aus dem einen wei-ten Höh-len-sys-tem in Betheu-
+ []
+
+[166] [167] [168
+
+]
+Kapitel 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [169]
+[170] [171] [172]
+Underfull \hbox (badness 10000) in paragraph at lines 2420--2421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2422--2424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2425--2426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2427--2430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2431--2433
+
+ []
+
+[173]
+Underfull \hbox (badness 10000) in paragraph at lines 2434--2435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2436--2437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2438--2440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2441--2442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2445
+
+ []
+
+[174]
+Underfull \hbox (badness 10000) in paragraph at lines 2448--2467
+
+ []
+
+[175] [176]
+Overfull \hbox (2.33481pt too wide) in paragraph at lines 2502--2503
+\T1/cmr/m/n/10 ebenso wie die zahl-lo-sen Sol-da-ten und Krie-gern aus Grenz-br
+ueck,
+ []
+
+[177] [178
+
+]
+Kapitel 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2524--2533
+
+ []
+
+[179]
+Overfull \hbox (0.26587pt too wide) in paragraph at lines 2534--2544
+\T1/cmr/m/n/10 ei-ne be-stimm-te Wir-kung zu er-zie-len. Hier-bei muss lo-gi-sc
+hes Den-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2544
+
+ []
+
+[180]
+Underfull \hbox (badness 10000) in paragraph at lines 2549--2553
+
+ []
+
+[181]
+Underfull \hbox (badness 10000) in paragraph at lines 2556--2559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2562--2565
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2568--2571
+
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 2576--2580
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2583--2585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2588--2590
+
+ []
+
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 2593--2596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2599--2601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2604--2605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2612--2614
+
+ []
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 2617--2619
+
+ []
+
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 2629--2630
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2631--2635
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2636--2641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2642--2646
+
+ []
+
+[186]
+Overfull \hbox (4.82031pt too wide) in paragraph at lines 2649--2662
+\T1/cmr/m/n/10 Re-zep-tu-ren be-rühm-ter Al-che-mis-ten wie her-ge-stellt. Ei-n
+er schrieb:
+ []
+
+
+Overfull \hbox (17.48389pt too wide) in paragraph at lines 2649--2662
+\T1/cmr/m/n/10 fungs-kraft, Selbst-be-wusst-sein, Or-ga-ni-sa-ti-ons-kraft und 
+Ich-Stärkung.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2649--2662
+
+ []
+
+[187]
+Underfull \hbox (badness 10000) in paragraph at lines 2665--2673
+
+ []
+
+[188]
+Underfull \hbox (badness 10000) in paragraph at lines 2674--2681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2684--2688
+
+ []
+
+[189]
+Overfull \hbox (3.16794pt too wide) in paragraph at lines 2691--2696
+\T1/cmr/m/n/10 Stoffwechsels, Pig-ment-stö-run-gen, Haar-aus-fall, Ge-schlechts
+-krank-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2691--2696
+
+ []
+
+
+Overfull \hbox (1.7655pt too wide) in paragraph at lines 2697--2703
+\T1/cmr/m/n/10 Zinn-Essenz Für: Krea-ti-vi-tät, Sprach-kraft, Selbst-ver-wirk-l
+i-chung,
+ []
+
+
+Overfull \hbox (2.33481pt too wide) in paragraph at lines 2697--2703
+\T1/cmr/m/n/10 Le-be-rer-kran-kun-gen, Stö-run-gen der Gal-le-bil-dung. Ener-gi
+e-sys-tem:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2697--2703
+
+ []
+
+[190]
+Overfull \hbox (20.5387pt too wide) in paragraph at lines 2706--2712
+\T1/cmr/m/n/10 lung, Haut-lei-den, Zahn-fleisch-blu-ten, Ohr- und Augen-Entzünd
+ungen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2706--2712
+
+ []
+
+
+Overfull \hbox (18.87244pt too wide) in paragraph at lines 2715--2720
+\T1/cmr/m/n/10 dung und Wär-me-haus-halt ener-ge-tisch zu-ge-ord-net. Planeten-
+Energie:
+ []
+
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 2723--2733
+
+ []
+
+
+Overfull \hbox (1.40814pt too wide) in paragraph at lines 2734--2735
+[]\T1/cmr/m/n/10 niedergeschrieben im drit-ten Mon-de 1203 von Mer-cu-ri-us Aeo
+-
+ []
+
+[192] [193] <pictures/Schwert.png, id=643, 56.21pt x 90.3375pt>
+File: pictures/Schwert.png Graphic file (type png)
+
+<use pictures/Schwert.png>
+Package pdftex.def Info: pictures/Schwert.png used on input line 2750.
+(pdftex.def)             Requested size: 22.76228pt x 36.58234pt.
+ [194 <./pictures/Schwert.png>] [195]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2788
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2788.
+
+ [196]
+Overfull \hbox (2.89021pt too wide) in paragraph at lines 2819--2829
+\T1/cmr/m/n/12 ckun-gen und nach-hal-ti-gen Ent-wick-lun-gen sind dem An-
+ []
+
+[197]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [198]
+[199]
+Overfull \hbox (6.11852pt too wide) in paragraph at lines 2867--2874
+\T1/cmr/m/n/12 li-chen Ap-p-li-ca-tio-nes zu ken-nen, und all' sol-che als Hand
+-
+ []
+
+
+Overfull \hbox (3.597pt too wide) in paragraph at lines 2875--2877
+\T1/cmr/m/n/12 ein-ba-run-gen, die zu ei-ner Ge-hor-sams-pflicht oder -schuld
+ []
+
+[200] [201] [202]
+Overfull \hbox (5.30916pt too wide) in paragraph at lines 2928--2931
+\T1/cmr/m/n/12 nom-men wer-den. Da-bei muss wie-der ein-mal das Schwert
+ []
+
+
+Overfull \hbox (8.3375pt too wide) in paragraph at lines 2940--2948
+\T1/cmr/m/n/12 Meis-ter zwei-fel-los, mit der Waf-fe um-zu-ge-nen, doch zeich-
+ []
+
+[203]
+File: pictures/Cordo_Siegel.png Graphic file (type png)
+ <use pictures/Cordo_Siegel.png>
+Package pdftex.def Info: pictures/Cordo_Siegel.png used on input line 2962.
+(pdftex.def)             Requested size: 21.68121pt x 32.93362pt.
+ [204]
+Kapitel 5.
+
+Overfull \hbox (24.94041pt too wide) in paragraph at lines 2972--2974
+\T1/cmr/m/n/20.74 Lexikon der Ma-gio-her-me-ti-schen Ter-
+ []
+
+[205
+
+]
+Overfull \hbox (5.94463pt too wide) in paragraph at lines 2993--2994
+\T1/cmr/m/n/9 schaft zu ver-set-zen. Sein Schim-mer schenkt sei-nem Trä-ger Sch
+ön-
+ []
+
+[206]
+Overfull \hbox (1.43878pt too wide) in paragraph at lines 3007--3009
+[]\T1/cmr/m/n/9 Astronomie: die A. be-zeich-net im Ge-gen-satz zur \T1/cmr/m/it
+/9 Astro-lo-gie \T1/cmr/m/n/9 die Stern-
+ []
+
+[207] [208] [209] [210] [211]
+Overfull \hbox (0.35995pt too wide) in paragraph at lines 3075--3077
+[]\T1/cmr/m/n/9 Ghul: die-se men-schen-ähn-li-chen We-sen be-sit-zen ei-ne grau
+-grü-ne Haut,
+ []
+
+[212]
+Overfull \hbox (7.82472pt too wide) in paragraph at lines 3096--3097
+[]\T1/cmr/m/n/9 Invocatio: Her-bei-ru-fung (nor-ma-ler-wei-se ei-nes Ele-men-te
+s: auch \T1/cmr/m/it/9 Dschin-
+ []
+
+[213] [214] [215] [216]
+Overfull \hbox (2.71625pt too wide) in paragraph at lines 3145--3146
+[]\T1/cmr/m/n/9 Niedere Al-chi-mie: (manch-mal auch Trank-kun-de), die n. A. be
+-schreibt
+ []
+
+
+Overfull \hbox (44.78096pt too wide) in paragraph at lines 3149--3150
+[]\T1/cmr/m/n/9 Okkupation: Be-seelt-heit ei-nes Ar-te-fakts: astrale/-elementa
+re/--transnekrotische/-
+ []
+
+[217]
+Overfull \hbox (2.0227pt too wide) in paragraph at lines 3155--3156
+[]\T1/cmr/m/n/9 Poltergeist: Er-schei-nungs-form ei-nes \T1/cmr/m/it/9 Geis-tes
+\T1/cmr/m/n/9 , meist an einen be-stimm-
+ []
+
+[218]
+Overfull \hbox (2.08594pt too wide) in paragraph at lines 3176--3177
+\T1/cmr/m/n/9 en die kor-rek-te Ta-ges-zeit, der kor-rekte Ort und be-son-de-re
+ Stern-
+ []
+
+
+Overfull \hbox (2.11714pt too wide) in paragraph at lines 3176--3177
+\T1/cmr/m/n/9 kon-stel-la-tio-nen. Die-se müs-sen na-tür-lich mit den rest-li-c
+hen Para-
+ []
+
+[219]
+Overfull \hbox (0.4313pt too wide) in paragraph at lines 3186--3187
+[]\T1/cmr/m/n/9 Untote: von den wan-dern-den To-ten: Al-le Nicht-Toten sind gar
+ schau-
+ []
+
+[220] [221] [222]
+Anhang A.
+[223
+
+] [224] [225] (./liberphoenicieszwei.aux) ) 
+Here is how much of TeX's memory you used:
+ 3770 strings out of 493304
+ 50192 string characters out of 6139871
+ 124812 words of memory out of 5000000
+ 7123 multiletter control sequences out of 15000+600000
+ 26236 words of font info for 62 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,12n,26p,1074b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm
+-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm2488.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfsl1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on liberphoenicieszwei.pdf (225 pages, 1648180 bytes).
+PDF statistics:
+ 838 PDF objects out of 1000 (max. 8388607)
+ 572 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -131,15 +131,16 @@ sind dementsprechend leichter, da sie Caloricum an sich, in Form von Wärme, bin
 
 \newpage
 
-\begin{center}
-\includegraphics[width=\textwidth]{pictures/flofeuerform1.jpg}
-\end{center}
-
 \subsection{Pyrostatik:}
 Feuermagie oder feuerhaltige Magie wird gerne und oft benutzt, vorallem zur Energieübertragung. Energie kann leicht und mit 
 relativ geringem Verlust in Feuer, genauer gesagt Feuerbewegung (aber das ist eine eigenständige Vorlesung), umgewandelt 
 werden und umgekehrt. Dies ist eine der fundamentalen Prinzipien der Pyrostatik, welcher wir uns widmen wollen, bevor wir 
 zur Pyrodynamik übergehen.
+
+\begin{wrapfigure}{r}{0.5\textwidth}
+     \centering
+	\includegraphics[width=5cm]{pictures/flofeuerform1.jpg}
+\end{wrapfigure}
 
 Wir können jeder Art von Materie einen Pyrostatischen Koeffizienten zuordnen, welcher linear beschreibt, wieviel Energie 
 und Zeit wir aufwenden müssen um ein durchschnittliches Element durch ein Feuerelement zu ersetzen. Der Pyrostatische 
@@ -381,8 +382,6 @@ Magus Galad Florian Phelleas Phönixflug
 \newpage
 
 \section{Grundzüge der Astral-Theorie}
-
-von Cordobayan
 
 \subsection{Der Astralraum}
 \begin{multicols}{2}
@@ -1115,9 +1114,10 @@ beziffern.
 Um die Gefahr solcher Verwechslungen weiter zu minimieren, werde ich in Folge auf die altsprachlichen Bezeichnungen zurückgreifen und von Aura, Cryo, Aqua, Aeris, Vita und 
 Flamma anstatt von Luft, Eis, Wasser, Erz, Humus und Feuer sprechen.\\
 
-\begin{center}
-\includegraphics[width=0.7\textwidth]{pictures/Maleska1.jpg}
-\end{center}
+\begin{wrapfigure}{r}{0.5\textwidth}
+     \centering
+	\includegraphics[width=5cm]{pictures/Maleska1.jpg}
+\end{wrapfigure}
 
 Wenn man die explizite Anzahl von sechs Elementen hinterfragt, so gibt es zunächst einmal eine Reihe von numerologischen Gründen für die Attraktivität der Zahl. Insbesondere 
 dass sie sowohl als Produkt wie auch als Summe hier Bestandteile ($1 \times 2  \times 3$ sowie $1 + 2 + 3$) gebildet werden kann, wird gerne als erster Indikator für die der Zahl inhärente 
